@@ -1,6 +1,3 @@
-// Matric Number: A0172430R
-// Name: Tang Yurou
-// Recommend.java
 import java.io.*;
 import java.util.*;
 
